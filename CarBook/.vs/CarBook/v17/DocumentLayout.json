@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benru\\source\\repos\\CarBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E1E57F-1A99-4419-B328-42B8CD962A56}|CarBook.Application\\CarBook.Application.csproj|c:\\users\\benru\\source\\repos\\carbook\\carbook.application\\features\\mediator\\handlers\\carfeaturehandlers\\write\\getcarfeaturebycaridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E1E57F-1A99-4419-B328-42B8CD962A56}|CarBook.Application\\CarBook.Application.csproj|solutionrelative:carbook.application\\features\\mediator\\handlers\\carfeaturehandlers\\write\\getcarfeaturebycaridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E1E57F-1A99-4419-B328-42B8CD962A56}|CarBook.Application\\CarBook.Application.csproj|c:\\users\\benru\\source\\repos\\carbook\\carbook.application\\features\\cqrs\\commands\\contactcommands\\createcontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E1E57F-1A99-4419-B328-42B8CD962A56}|CarBook.Application\\CarBook.Application.csproj|solutionrelative:carbook.application\\features\\cqrs\\commands\\contactcommands\\createcontactcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateContactCommand.cs",
+              "DocumentMoniker": "C:\\Users\\benru\\source\\repos\\CarBook\\CarBook.Application\\Features\\CQRS\\Commands\\ContactCommands\\CreateContactCommand.cs",
+              "RelativeDocumentMoniker": "CarBook.Application\\Features\\CQRS\\Commands\\ContactCommands\\CreateContactCommand.cs",
+              "ToolTip": "C:\\Users\\benru\\source\\repos\\CarBook\\CarBook.Application\\Features\\CQRS\\Commands\\ContactCommands\\CreateContactCommand.cs",
+              "RelativeToolTip": "CarBook.Application\\Features\\CQRS\\Commands\\ContactCommands\\CreateContactCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T17:34:27.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCarFeatureByCarIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\benru\\source\\repos\\CarBook\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\Write\\GetCarFeatureByCarIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\Write\\GetCarFeatureByCarIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\benru\\source\\repos\\CarBook\\CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\Write\\GetCarFeatureByCarIdQueryHandler.cs",
+              "RelativeToolTip": "CarBook.Application\\Features\\Mediator\\Handlers\\CarFeatureHandlers\\Write\\GetCarFeatureByCarIdQueryHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T20:27:25.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
